@@ -35,7 +35,7 @@
                 "address_1": "221B Baker Street",
                 "address_2": "Marylebone Road",
                 "city": "london",
-                "zip_code": n85,
+                "zip_code": "n85",
                 "country": "united kingdom"
             }
         ]
