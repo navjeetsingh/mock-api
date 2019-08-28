@@ -1,0 +1,80 @@
+[
+   {
+        "id": 50,
+        "email": "staff1@testmail.com",
+        "status": "active",
+        "locale": "en",
+        "fcm_token": null,
+        "projects": [
+            {
+            "id": 54,
+            "name": "Condo 1"
+        },
+        {
+            "id": 56,
+            "name": "Condo 2"
+        }
+        ],
+        "profile": {
+            "id": 174,
+            "first_name": "Staff",
+            "last_name": "Box 5",
+            "nick_name": "St",
+            "phone": "1234567888",
+            "role": "guard",
+              "avatar_url": "https://imgur.com/F2HtCSg"
+        },
+        "role": {
+            "id": 4,
+            "name": "project_admin_staff"
+        },
+        "addresses": [
+            {
+                "id": 54,
+                "name": "Staff",
+                "address_1": "221B Baker Street",
+                "address_2": "Marylebone Road",
+                "city": "london",
+                "zip_code": n85,
+                "country": "united kingdom"
+            }
+        ]
+},
+{
+        "id": 51,
+        "email": "staff2@testmail.com",
+        "status": "active",
+        "locale": "en",
+        "fcm_token": null,
+        "projects": [
+            {
+            "id": 53,
+            "name": "Condo 3"
+        }
+        ],
+        "profile": {
+            "id": 175,
+            "first_name": "Staffy",
+            "last_name": "Box 6",
+            "nick_name": "St",
+            "phone": "1234567888",
+            "role": "Helper",
+            "avatar_url": "https://imgur.com/F2HtCSg"        
+         },
+        "role": {
+            "id": 4,
+            "name": "project_admin_staff"
+        },
+        "addresses": [
+            {
+                "id": 55,
+                "name": "Staffy",
+                "address_1": "123 Downing Street,",
+                "address_2": "Nowhere Street",
+                "city": "london",
+                "zip_code": 123456,
+                "country": "united kingdom"
+            }
+        ]
+}
+]
